@@ -1,11 +1,9 @@
-# takes JSON list of spells and extracts name and short description,
-# and writes these to file spellsparsed in a way that they can be
-# used within recipes.js
+# rewrites names of spells for the LIST_OF_SPELLS Alexa needs
 
 import json
 
 # file to which we will be writing spell names and descriptions
-fWrite = open('spellsparsed.txt', 'w')
+fWrite = open('spellnames.txt', 'w')
 
 # opens the JSON file with the spell data and saves it to a JSON object
 with open('spells.json') as data_file:
@@ -16,8 +14,8 @@ with open('spells.json') as data_file:
 for item in data:
     name = item["fields"]["name"].encode("utf-8").lower()
     # nameEscaped = name.replace("\'", "\\'")
-    desc = item["fields"]["short_description"].encode("utf-8")
-    descEscaped = desc.replace('\"', '\\"')
-    fWrite.write("\"" + name + "\": " + "\"" + descEscaped + "\",\n")
+    # desc = item["fields"]["short_description"].encode("utf-8")
+    # descEscaped = desc.replace("\'", "\\'")
+    fWrite.write(name + '\n')
 
 fWrite.close()

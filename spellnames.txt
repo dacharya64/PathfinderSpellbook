@@ -1,0 +1,1032 @@
+acid arrow
+acid fog
+acid splash
+aid
+air walk
+alarm
+align weapon
+alter self
+analyze dweomer
+animal growth
+animal messenger
+animal shapes
+animal trance
+animate dead
+animate objects
+animate plants
+animate rope
+antilife shell
+antimagic field
+antipathy
+antiplant shell
+arcane eye
+arcane lock
+arcane mark
+arcane sight
+arcane sight, greater
+astral projection
+atonement
+augury
+awaken
+baleful polymorph
+bane
+banishment
+barkskin
+bear's endurance
+bear's endurance, mass
+beast shape i
+beast shape ii
+beast shape iii
+beast shape iv
+bestow curse
+binding
+black tentacles
+blade barrier
+blasphemy
+bleed
+bless
+bless water
+bless weapon
+blight
+blindness/deafness
+blink
+blur
+break enchantment
+breath of life
+bull's strength
+bull's strength, mass
+burning hands
+call lightning
+call lightning storm
+calm animals
+calm emotions
+cat's grace
+cat's grace, mass
+cause fear
+chain lightning
+changestaff
+chaos hammer
+charm animal
+charm monster
+charm monster, mass
+charm person
+chill metal
+chill touch
+circle of death
+clairaudience/clairvoyance
+clenched fist
+cloak of chaos
+clone
+cloudkill
+color spray
+command
+command, greater
+command plants
+command undead
+commune
+commune with nature
+comprehend languages
+cone of cold
+confusion
+confusion, lesser
+consecrate
+contact other plane
+contagion
+contingency
+continual flame
+control plants
+control undead
+control water
+control weather
+control winds
+create food and water
+create greater undead
+create undead
+create water
+creeping doom
+crushing despair
+crushing hand
+cure critical wounds
+cure critical wounds, mass
+cure light wounds
+cure light wounds, mass
+cure moderate wounds
+cure moderate wounds, mass
+cure serious wounds
+cure serious wounds, mass
+curse water
+dancing lights
+darkness
+darkvision
+daylight
+daze
+daze monster
+death knell
+death ward
+deathwatch
+deeper darkness
+deep slumber
+delayed blast fireball
+delay poison
+demand
+desecrate
+destruction
+detect animals or plants
+detect chaos
+detect evil
+detect good
+detect law
+detect magic
+detect poison
+detect scrying
+detect secret doors
+detect snares and pits
+detect thoughts
+detect undead
+dictum
+dimensional anchor
+dimensional lock
+dimension door
+diminish plants
+discern lies
+discern location
+disguise self
+disintegrate
+dismissal
+dispel chaos
+dispel evil
+dispel good
+dispel law
+dispel magic
+dispel magic, greater
+displacement
+disrupting weapon
+disrupt undead
+divination
+divine favor
+divine power
+dominate animal
+dominate monster
+dominate person
+doom
+dream
+eagle's splendor
+eagle's splendor, mass
+earthquake
+elemental body i
+elemental body ii
+elemental body iii
+elemental body iv
+elemental swarm
+endure elements
+energy drain
+enervation
+enlarge person
+enlarge person, mass
+entangle
+enthrall
+entropic shield
+erase
+ethereal jaunt
+etherealness
+expeditious retreat
+explosive runes
+eyebite
+fabricate
+faerie fire
+false life
+false vision
+fear
+feather fall
+feeblemind
+find the path
+find traps
+finger of death
+fireball
+fire seeds
+fire shield
+fire storm
+fire trap
+flame arrow
+flame blade
+flame strike
+flaming sphere
+flare
+flesh to stone
+floating disk
+fly
+fog cloud
+forbiddance
+forcecage
+forceful hand
+foresight
+form of the dragon i
+form of the dragon ii
+form of the dragon iii
+fox's cunning
+fox's cunning, mass
+freedom
+freedom of movement
+freezing sphere
+gaseous form
+gate
+geas, lesser
+geas/quest
+gentle repose
+ghost sound
+ghoul touch
+giant form i
+giant form ii
+giant vermin
+glibness
+glitterdust
+globe of invulnerability
+globe of invulnerability, lesser
+glyph of warding
+glyph of warding, greater
+goodberry
+good hope
+grasping hand
+grease
+guards and wards
+guidance
+gust of wind
+hallow
+hallucinatory terrain
+halt undead
+harm
+haste
+heal
+heal, mass
+heal mount
+heat metal
+helping hand
+heroes' feast
+heroism
+heroism, greater
+hide from animals
+hide from undead
+hideous laughter
+hold animal
+hold monster
+hold monster, mass
+hold person
+hold person, mass
+hold portal
+holy aura
+holy smite
+holy sword
+holy word
+horrid wilting
+hypnotic pattern
+hypnotism
+ice storm
+identify
+illusory script
+illusory wall
+imbue with spell ability
+implosion
+imprisonment
+incendiary cloud
+inflict critical wounds
+inflict critical wounds, mass
+inflict light wounds
+inflict light wounds, mass
+inflict moderate wounds
+inflict moderate wounds, mass
+inflict serious wounds
+inflict serious wounds, mass
+insanity
+insect plague
+instant summons
+interposing hand
+invisibility
+invisibility, greater
+invisibility, mass
+invisibility purge
+invisibility sphere
+iron body
+ironwood
+irresistible dance
+jump
+keen edge
+knock
+know direction
+legend lore
+levitate
+light
+lightning bolt
+limited wish
+liveoak
+locate creature
+locate object
+longstrider
+lullaby
+mage armor
+mage hand
+mage's disjunction
+mage's faithful hound
+mage's lucubration
+mage's magnificent mansion
+mage's private sanctum
+mage's sword
+magic aura
+magic circle against chaos
+magic circle against evil
+magic circle against good
+magic circle against law
+magic fang
+magic fang, greater
+magic jar
+magic missile
+magic mouth
+magic stone
+magic vestment
+magic weapon
+magic weapon, greater
+major creation
+major image
+make whole
+mark of justice
+maze
+meld into stone
+mending
+message
+meteor swarm
+mind blank
+mind fog
+minor creation
+minor image
+miracle
+mirage arcana
+mirror image
+misdirection
+mislead
+mnemonic enhancer
+modify memory
+moment of prescience
+mount
+move earth
+neutralize poison
+nightmare
+nondetection
+obscure object
+obscuring mist
+open/close
+order's wrath
+overland flight
+owl's wisdom
+owl's wisdom, mass
+passwall
+pass without trace
+permanency
+permanent image
+persistent image
+phantasmal killer
+phantom steed
+phantom trap
+phase door
+planar ally
+planar ally, greater
+planar ally, lesser
+planar binding
+planar binding, greater
+planar binding, lesser
+plane shift
+plant growth
+plant shape i
+plant shape ii
+plant shape iii
+poison
+polar ray
+polymorph any object
+polymorph
+polymorph, greater
+power word blind
+power word kill
+power word stun
+prayer
+prestidigitation
+prismatic sphere
+prismatic spray
+prismatic wall
+produce flame
+programmed image
+project image
+protection from arrows
+protection from chaos
+protection from energy
+protection from evil
+protection from good
+protection from law
+protection from spells
+prying eyes
+prying eyes, greater
+purify food and drink
+pyrotechnics
+quench
+rage
+rainbow pattern
+raise dead
+ray of enfeeblement
+ray of exhaustion
+ray of frost
+read magic
+reduce animal
+reduce person
+reduce person, mass
+refuge
+regenerate
+reincarnate
+remove blindness/deafness
+remove curse
+remove disease
+remove fear
+remove paralysis
+repel metal or stone
+repel vermin
+repel wood
+repulsion
+resilient sphere
+resistance
+resist energy
+restoration
+restoration, greater
+restoration, lesser
+resurrection
+reverse gravity
+righteous might
+rope trick
+rusting grasp
+sanctuary
+scare
+scintillating pattern
+scorching ray
+screen
+scrying
+scrying, greater
+sculpt sound
+searing light
+secret chest
+secret page
+secure shelter
+see invisibility
+seeming
+sending
+sepia snake sigil
+sequester
+shades
+shadow conjuration
+shadow conjuration, greater
+shadow evocation
+shadow evocation, greater
+shadow walk
+shambler
+shapechange
+shatter
+shield
+shield of faith
+shield of law
+shield other
+shillelagh
+shocking grasp
+shout
+shout, greater
+shrink item
+silence
+silent image
+simulacrum
+slay living
+sleep
+sleet storm
+slow
+snare
+soften earth and stone
+solid fog
+song of discord
+soul bind
+sound burst
+speak with animals
+speak with dead
+speak with plants
+spectral hand
+spell immunity
+spell immunity, greater
+spell resistance
+spellstaff
+spell turning
+spider climb
+spike growth
+spike stones
+spiritual weapon
+stabilize
+statue
+status
+stinking cloud
+stone shape
+stoneskin
+stone tell
+stone to flesh
+storm of vengeance
+suggestion
+suggestion, mass
+summon instrument
+summon monster i
+summon monster ii
+summon monster iii
+summon monster iv
+summon monster v
+summon monster vi
+summon monster vii
+summon monster viii
+summon monster ix
+summon nature's ally i
+summon nature's ally ii
+summon nature's ally iii
+summon nature's ally iv
+summon nature's ally v
+summon nature's ally vi
+summon nature's ally vii
+summon nature's ally viii
+summon nature's ally ix
+summon swarm
+sunbeam
+sunburst
+symbol of death
+symbol of fear
+symbol of insanity
+symbol of pain
+symbol of persuasion
+symbol of sleep
+symbol of stunning
+symbol of weakness
+sympathetic vibration
+sympathy
+telekinesis
+telekinetic sphere
+telepathic bond
+teleportation circle
+teleport
+teleport, greater
+teleport object
+temporal stasis
+time stop
+tiny hut
+tongues
+touch of fatigue
+touch of idiocy
+transformation
+transmute metal to wood
+transmute mud to rock
+transmute rock to mud
+transport via plants
+trap the soul
+tree shape
+tree stride
+true resurrection
+true seeing
+true strike
+undeath to death
+undetectable alignment
+unhallow
+unholy aura
+unholy blight
+unseen servant
+vampiric touch
+veil
+ventriloquism
+virtue
+vision
+wail of the banshee
+wall of fire
+wall of force
+wall of ice
+wall of iron
+wall of stone
+wall of thorns
+warp wood
+water breathing
+water walk
+waves of exhaustion
+waves of fatigue
+web
+weird
+whirlwind
+whispering wind
+wind walk
+wind wall
+wish
+wood shape
+word of chaos
+word of recall
+zone of silence
+zone of truth
+absorbing touch
+accelerate poison
+acid pit
+alchemical allocation
+allfood
+alter winds
+amplify elixir
+ant haul
+aqueous orb
+arcane concordance
+arrow eruption
+aspect of the bear
+aspect of the falcon
+aspect of the stag
+aspect of the wolf
+aura of greater courage
+ball lightning
+banish seeming
+bard's escape
+beguiling gift
+bestow grace
+blaze of glory
+blessing of courage and life
+blessing of fervor
+blessing of the salamander
+blood biography
+bloodhound
+bloody claws
+bomber's eye
+borrow fortune
+borrow skill
+bow spirit
+brand
+brand, greater
+break
+brilliant inspiration
+bristle
+burning gaze
+burst bonds
+cacophonous call
+cacophonous call, mass
+calcific touch
+call animal
+campfire wall
+castigate
+castigate, mass
+cast out
+challenge evil
+chameleon stride
+clashing rocks
+cleanse
+cloak of dreams
+cloak of shade
+cloak of winds
+confess
+contagious flame
+coordinated effort
+corruption resistance
+coward's lament
+crafter's curse
+crafter's fortune
+create pit
+create treasure map
+cup of dust
+dancing lantern
+deadly finale
+deafening song bolt
+defile armor
+deflection
+delayed consumption
+denounce
+detect aberration
+detonate
+devolution
+discordant blast
+divine transfer
+divine vessel
+draconic reservoir
+dragon's breath
+dust of twilight
+eagle eye
+elemental aura
+elemental speech
+elemental touch
+elude time
+enemy hammer
+enter image
+euphoric tranquility
+evolution surge
+evolution surge, greater
+evolution surge, lesser
+expeditious excavation
+expend
+feast of ashes
+feather step
+feather step, mass
+fester
+fester, mass
+fiery body
+firebrand
+fire breath
+firefall
+fire of entanglement
+fire of judgment
+fire of vengeance
+fire snake
+flames of the faithful
+flare burst
+fluid form
+fly, mass
+foe to friend
+follow aura
+fool's forbiddance
+forced repentance
+frozen note
+gallant inspiration
+getaway
+geyser
+ghostbane dirge
+ghostbane dirge, mass
+glide
+grace
+gravity bow
+grove of respite
+guiding star
+heroic finale
+hero's defiance
+hidden speech
+hide campsite
+holy whisper
+honeyed tongue
+hungry pit
+hunter's eye
+hunter's howl
+hydraulic push
+hydraulic torrent
+ill omen
+innocence
+instant armor
+instant enemy
+invigorate
+invigorate, mass
+jester's jaunt
+keen senses
+king's castle
+knight's calling
+lead blades
+life bubble
+light lance
+lily pad stride
+lockjaw
+marks of forbiddance
+mask dweomer
+memory lapse
+moonstruck
+nap stack
+natural rhythm
+nature's exile
+negate aroma
+oath of peace
+oracle's burden
+pain strike
+pain strike, mass
+paladin's sacrifice
+perceive cues
+phantasmal revenge
+phantasmal web
+pied piping
+pillar of life
+planar adaptation
+planar adaptation, mass
+pox pustules
+protective spirit
+purging finale
+purified calling
+putrefy food and drink
+rally point
+rampart
+rebuke
+rejuvenate eidolon
+rejuvenate eidolon, greater
+rejuvenate eidolon, lesser
+residual tracking
+resounding blow
+rest eternal
+restful sleep
+resurgent transformation
+retribution
+reviving finale
+righteous vigor
+river of wind
+sacred bond
+sacrificial oath
+saddle surge
+sanctify armor
+saving finale
+scent trail
+screech
+sculpt corpse
+seamantle
+seek thoughts
+shadow projection
+shared wrath
+share language
+share senses
+shifting sand
+sift
+sirocco
+sleepwalk
+slipstream
+snake staff
+solid note
+spark
+spiked pit
+spiritual ally
+spite
+stay the hand
+stone call
+stone fist
+stormbolts
+strong jaw
+stumble gap
+stunning finale
+suffocation
+suffocation, mass
+summon eidolon
+swarm skin
+thorn body
+threefold aspect
+thundering drums
+timely inspiration
+tireless pursuers
+tireless pursuit
+touch of gracelessness
+touch of the sea
+transmogrify
+transmute potion to poison
+treasure stitching
+true form
+tsunami
+twilight knife
+twin form
+unfetter
+universal formula
+unwilling shield
+unwitting ally
+vanish
+veil of positive energy
+venomous bolt
+versatile weapon
+vomit swarm
+vortex
+wake of light
+wall of lava
+wall of suppression
+wandering star motes
+ward the faithful
+weapon of awe
+winds of vengeance
+world wave
+wrathful mantle
+wrath
+ablative barrier
+absorb toxicity
+abundant ammunition
+adjuring step
+adoration
+air bubble
+air walk, communal
+animal aspect
+animal aspect, greater
+ant haul, communal
+arcane cannon
+bestow weapon proficiency
+blistering invective
+bowstaff
+brow gasher
+bullet shield
+burst of speed
+caging bomb admixture
+certain grip
+chain of perdition
+companion mind link
+compel hostility
+damp powder
+darkvision, communal
+daybreak arrow
+deadeye's lore
+deadly juggernaut
+debilitating portent
+delay poison, communal
+destabilize powder
+discovery torch
+divine arrow
+dust form
+effortless armor
+endure elements, communal
+energy siege shot
+energy siege shot, greater
+fabricate bullets
+fiery shuriken
+find quarry
+flash fire
+forest friend
+frightful aspect
+frost fall
+haunted fey aspect
+healing thief
+heroic invocation
+hostile juxtaposition
+hostile juxtaposition, greater
+hostile levitation
+illusion of calm
+instrument of agony
+jolting portent
+judgment light
+jury-rig
+kinetic reverberation
+languid bomb admixture
+liberating command
+life conduit
+life conduit, greater
+life conduit, improved
+lightning lash bomb admixture
+litany of defense
+litany of eloquence
+litany of entanglement
+litany of escape
+litany of madness
+litany of righteousness
+litany of sight
+litany of sloth
+litany of thunder
+litany of vengeance
+litany of warding
+litany of weakness
+locate weakness
+lock gaze
+longshot
+magic siege engine
+magic siege engine, greater
+mask dweomer, communal
+mind blank, communal
+mirror strike
+moment of greatness
+mount, communal
+mutagenic touch
+named bullet
+named bullet, greater
+negative reaction
+nondetection, communal
+obsidian flow
+peacebond
+pellet blast
+phantom chariot
+phantom driver
+phantom steed, communal
+pilfering hand
+protection from arrows, communal
+protection from chaos, communal
+protection from energy, communal
+protection from evil, communal
+protection from good, communal
+protection from law, communal
+pup shape
+qualm
+recoil fire
+reinforce armaments
+reinforce armaments, communal
+reloading hands
+resinous skin
+resist energy, communal
+returning weapon
+returning weapon, communal
+ricochet shot
+see alignment
+shadow bomb admixture
+share language, communal
+shocking image
+shock shield
+siege of trees
+siege of trees, greater
+spell immunity, communal
+spell immunity, greater communal
+spider climb, communal
+spontaneous immolation
+stabilize powder
+stoneskin, communal
+summoner conduit
+sun metal
+symbol of striking
+tactical acumen
+targeted bomb admixture
+tar pool
+telekinetic assembly
+telekinetic charge
+terrain bond
+thunder fire
+tongues, communal
+touch injection
+twisted space
+unerring weapon
+viper bomb admixture
+walk through space
+warding weapon
+water walk, communal
+weaken powder
+wilderness soldiers
+wreath of blades
