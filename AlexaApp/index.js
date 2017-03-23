@@ -1,11 +1,10 @@
 /* eslint-disable  func-names */
 /* eslint quote-props: ["error", "consistent"]*/
 /**
- * This sample demonstrates a sample skill built with Amazon Alexa Skills nodejs
- * skill development kit.
- * This sample supports multiple languages (en-US, en-GB, de-GB).
- * The Intent Schema, Custom Slot and Sample Utterances for this skill, as well
- * as testing instructions are located at https://github.com/alexa/skill-sample-nodejs-howto
+ * This uses the template for Amazon Alexa Skills nodej skill development kit
+ * to create a Pathfinder spellbook for reference and lookup.
+
+  * Repo at: https://github.com/dacharya64/PathfinderSpellbook
  **/
 
 'use strict';
