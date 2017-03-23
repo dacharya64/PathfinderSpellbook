@@ -12,7 +12,7 @@
  const Alexa = require('alexa-sdk');
  const recipes = require('./recipes');
 
- const APP_ID = undefined; // TODO replace with your app ID (OPTIONAL).
+ const APP_ID = "amzn1.ask.skill.3100605f-33ca-4270-8c86-03d533a8cd3b";
 
  const handlers = {
      'NewSession': function () {
